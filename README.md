@@ -45,6 +45,7 @@ This project analyzes the HR dataset of Palmoria Group, a manufacturing company 
 - Excel (for initial data exploration)
 
 ## Screenshots
+https://github.com/staicy20/Palmoria-group-analysis-/blob/main/palmoria%20dashboard.png
 
 ##  Author
 **Angela Onjiko** – [staicyonjiko@gmail.com](mailto:staicyonjiko@gmail.com)
