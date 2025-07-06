@@ -24,14 +24,7 @@ This project analyzes the HR dataset of Palmoria Group, a manufacturing company 
 - Stacked column chart: Salary band by Region
 - KPI Cards: Total Employees, % Female, % Below $90,000
 
-##  Key Insights
-- South region and Engineering department are male-dominated
-- Female employees generally have higher average ratings
-- Gender pay gap identified in Finance and Engineering departments
-- 34% of employees earn below the mandated $90,000 minimum
-- Undisclosed gender category shows lower performance scores, possibly due to bias
-
-## ✅ Recommendations
+## Recommendations
 | Issue | Recommendation |
 |-------|----------------|
 | Gender imbalance | Prioritize female recruitment in underrepresented regions |
@@ -48,7 +41,7 @@ This project analyzes the HR dataset of Palmoria Group, a manufacturing company 
 https://github.com/staicy20/Palmoria-group-analysis-/blob/main/palmoria%20dashboard.png
 
 ##  Author
-**Angela Onjiko** – [staicyonjiko@gmail.com](mailto:staicyonjiko@gmail.com)
+**Angela Staicy Onjiko** – [staicyonjiko@gmail.com](mailto:staicyonjiko@gmail.com)
 
-## 📃 License
+##  License
 This project is licensed for educational and demonstration purposes.
